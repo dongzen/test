@@ -8,8 +8,8 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print(f'123123123123Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print(f'123123123123Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'123123123213123123123Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'1231231123123123123123123213123123223123Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'123123123Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
