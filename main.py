@@ -17,6 +17,7 @@ def print_hi(name):
     print('or')
 
     print("dj")
+    print("or")
 
 
 # Press the green button in the gutter to run the script.
